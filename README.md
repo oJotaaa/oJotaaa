@@ -102,10 +102,3 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde venh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![oJotaaa GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=oJotaaa&show_icons=true&theme=holi&include_all_commits=true)
