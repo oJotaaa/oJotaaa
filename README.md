@@ -20,7 +20,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde venh
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://www.svgrepo.com/show/452184/csharp.svg" 
 />
 <img 
     align="left" 
@@ -28,7 +28,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde venh
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353657/django-icon.svg" 
+    src="https://www.svgrepo.com/show/473592/dotnet.svg" 
 />
 <img 
     align="left" 
